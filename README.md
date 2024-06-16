@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @v3rc
-- 👀 I’m interested in many things :P
-- It's nice to be here after a while :)
+- 👀 I’m interested in Cybersecurity and DevSecOps :P
+- It's nice to be here :)
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⠛⢩⣴⣶⣶⣶⣌⠙⠫⠛⢋⣭⣤⣤⣤⣤⡙⣿⣿⣿⣿⣿⣿
